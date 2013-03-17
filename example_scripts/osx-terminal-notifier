@@ -1,0 +1,4 @@
+#!/bin/bash
+content=$1
+event=$2
+terminal-notifier -message "$content" -title "Wobble" -subtitle"$event"
