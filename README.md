@@ -26,6 +26,7 @@ Options:
 
 ## installation
 
-`git clone git@github.com:Velrok/wobblefyer.git <project-dir>`
-`<project-dir>/install-dependencies.sh`
-
+```
+git clone git@github.com:Velrok/wobblefyer.git <project-dir>
+<project-dir>/install-dependencies.sh
+```
